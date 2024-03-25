@@ -1,1 +1,11 @@
 
+{
+    "domain": "fipe_car",
+    "name": "FIPE Car",
+    "documentation": "https://github.com/seu-usuario/fipe_car",
+    "dependencies": [],
+    "requirements": [],
+    "version": "1.0.0",
+    "description": "Custom component to retrieve FIPE car data.",
+    "python_script": "fipe_car.py"
+}
